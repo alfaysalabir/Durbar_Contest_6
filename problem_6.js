@@ -38,6 +38,5 @@ function chunkArray(arr, size) {
         chunks.push(chunk);
     }
 
-    
     return chunks;
 }
